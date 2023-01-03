@@ -1,3 +1,1 @@
-<h1>Tasks in progress</h1>
-<ul>
-  <li> EmailValidator
+<h1>Stack</h1>
